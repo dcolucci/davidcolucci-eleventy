@@ -26,6 +26,24 @@ Eleventy's **defaults** apply until an `eleventy.config.js` is added:
 
 When a config file is added, it will export a function from `eleventy.config.js` (or `.eleventy.js`) that receives the `eleventyConfig` object and returns an optional `{ dir: { input, output } }` object.
 
+## Design Color Palette
+
+Sourced from `davidcolucci.com` CSS. Use these as the canonical colors for this project:
+
+| Hex | Swatch |
+|-----|--------|
+| `#2d2d2d` | Dark gray |
+| `#767676` | Medium gray |
+| `#aaa` | Lighter gray |
+| `#ccc` | Very light gray |
+| `#6196cc` | Muted blue |
+| `#67cdcc` | Teal |
+| `#f08d49` | Orange |
+| `#f8c555` | Yellow |
+| `#9C2626` | Dark red |
+
+## Architecture
+
 **Installed template/utility libraries** (available without extra installs):
 - `nunjucks` — primary templating
 - `liquidjs` — Liquid templating
