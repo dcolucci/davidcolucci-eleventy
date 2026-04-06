@@ -32,6 +32,7 @@ Sourced from `davidcolucci.com` CSS. Use these as the canonical colors for this 
 
 | Hex | Swatch |
 |-----|--------|
+| `#f5f5f5` | Off-white |
 | `#2d2d2d` | Dark gray |
 | `#767676` | Medium gray |
 | `#aaa` | Lighter gray |
