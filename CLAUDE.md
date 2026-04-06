@@ -8,12 +8,9 @@ This is an [Eleventy (11ty)](https://www.11ty.dev/) static site project. Current
 
 ## Commands
 
-No npm scripts are configured yet. Use the Eleventy CLI directly:
-
 ```bash
-npx eleventy          # Build the site to _site/
-npx eleventy --serve  # Build + start dev server with live reload
-npx eleventy --watch  # Build + watch for changes
+npm start   # Dev server with live reload
+npm run build  # Build to _site/
 ```
 
 ## Architecture
