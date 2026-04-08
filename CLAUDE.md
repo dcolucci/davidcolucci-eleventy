@@ -25,7 +25,7 @@ When a config file is added, it will export a function from `eleventy.config.js`
 
 ## Design Color Palette
 
-Sourced from `davidcolucci.com` CSS. Use these as the canonical colors for this project:
+Sourced from the legacy Refinery CMS powered `davidcolucci.com` CSS. Use these as the canonical colors for this project:
 
 | Hex | Swatch |
 |-----|--------|
